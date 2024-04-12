@@ -20,7 +20,7 @@ request_3 = 'request_from_msql/request_3.sql'
 request_4 = 'request_from_msql/request_4.sql'
 
 # ok
-# Знайти які курси читає певний викладач. ВВедіть його ИД. Приклад request_from_sql(request_5, '2')
+# Знайти які курси читає певний викладач. ВВедіть його ИД. Приклад request_from_sql(request_5, teacher_id='2')
 request_5 = 'request_from_msql/request_5.sql'
 
 # ok
